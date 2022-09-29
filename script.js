@@ -42,4 +42,4 @@ console.log(Math.sqrt(2));
 // OR
 let newRandomNumber=Math.floor(Math.random()*(17)+7)
 
-console.log(newrandomNumber);
+console.log(newRandomNumber);
